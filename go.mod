@@ -6,6 +6,7 @@ require (
 	github.com/go-ldap/ldap v3.0.3+incompatible
 	github.com/golang-jwt/jwt v3.2.2+incompatible
 	github.com/spf13/cobra v1.8.1
+	golang.org/x/oauth2 v0.25.0
 )
 
 require (
